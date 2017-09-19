@@ -23,8 +23,7 @@ Setup Info:
     git clone https://github.com/SleepyThread/cucumber-java.git 
    ```
    
-2. [Download the Chrome Driver from the Google Page](https://chromedriver.storage.googleapis.com/index.html?path=2
-.32/) to driver directory.
+2. [Download the Chrome Driver from the Google Page](https://chromedriver.storage.googleapis.com/index.html?path=2.32/) to driver directory.
 
 3. Add webdriver.chrome.driver=$PROJECT_ROOT/driver/chromedriver to path
 
